@@ -1,0 +1,4 @@
+var x = 5;
+var y = 18;
+var z = x+y; //To write value of X and Y
+console.log(z); //To print the sum of 5 and 18
